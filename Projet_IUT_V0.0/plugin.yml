@@ -1,0 +1,15 @@
+name: PluginIUT
+version: 0.0
+author: GroupeB
+main: fr.groupeb.pluginiut.Main
+commands:
+ test: 
+     description: Ceci est une commande de test
+     permission: test.use
+ boussole:
+     description: Ceci est une commande pour donner la boussole
+     permission: boussole.use
+ aide:
+     description: Ceci est une commande pour donner des explications
+     permission: aide.use
+    
